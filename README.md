@@ -39,3 +39,4 @@ Things you may want to cover:
   Made a search form for actors and I assumed that it means search movies of certain actor.
   No user auth system 
   Because haven't user/actor/director email so identified them based in thier name. If user name repeated I considered it the existing user same for actor and director. 
+  Erd diagram is there on root path please check that as well.
